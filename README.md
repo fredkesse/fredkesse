@@ -1,16 +1,20 @@
-## Hi there 👋
+# Bonjour, je suis KESSE KOFFI FRED WILHELM 👋
 
-<!--
-**fredkesse/fredkesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Ingénieur en électricité basé à **Abidjan, Côte d'Ivoire**
+💻 En apprentissage du développement web et mobile
 
-Here are some ideas to get you started:
+## Ce que je fais
+- **Ingénierie électrique** : dimensionnement BT/HT, études d'éclairage, plans
+- **Développement** : je construis des outils web pour simplifier les calculs électriques
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mes outils
+**Électricité** : Caneco BT/HT/EP · DIALux · Relux · AutoCAD · Revit · Rapsody · XL Pro
+
+**Développement (en apprentissage)** : HTML · CSS · JavaScript · Git
+
+## Je travaille actuellement sur
+- 🔌 Un calculateur de section de câble en ligne
+- 📚 Ma [roadmap d'apprentissage](https://github.com/fredkesse/roadmap-apprentissage)
+
+## Me contacter
+[LinkedIn](https://www.linkedin.com/in/fredkesse/)
